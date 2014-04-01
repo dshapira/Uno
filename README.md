@@ -1,11 +1,12 @@
 # Uno for Ghost
 
+Adapation of Uno for Ghost by Dale Anthony: [Uno ghost theme](https://github.com/daleanthony/Uno)
 
-Uno for Ghost is the result of my first 'mini-project' of 2014. The theme features a minimal, responsive design with a cover page, disqus comment integration, foundation icons and various colour options.
+<!-- Uno for Ghost is the result of my first 'mini-project' of 2014. The theme features a minimal, responsive design with a cover page, disqus comment integration, foundation icons and various colour options. -->
 
 
-## Demo
-There's a demo of the theme running on my personal website, [daleanthony.com](http://daleanthony.com)
+<!-- ## Demo -->
+<!-- There's a demo of the theme running on my personal website, [daleanthony.com](http://dannyshapira.com) -->
 
 
 ## Features
@@ -40,7 +41,7 @@ Some common questions are answered on the [Uno FAQ page](http://daleanthony.com/
 
 ## Contact
 
-The best way to contact me is by [dropping me an email](dale@daleanthony.com) or my messaging me on [Twitter](https://twitter.com/daleanthony)
+The best way to contact the original author is by [dropping me him an email](dale@daleanthony.com) or by messaging him on [Twitter](https://twitter.com/daleanthony)
 
 ## Licence
 
